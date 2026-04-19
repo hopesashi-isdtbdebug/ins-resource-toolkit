@@ -1,17 +1,50 @@
-# ins-resource-toolkit
-A curated Nursing Informatics Resource Toolkit built with React. Includes professional organizations, policy resources, and tools relevant to informatics nurse specialists, with search and dark mode support.
-Description
+# INS Resource Toolkit
 
-Short paragraph (same as repo description)
+A curated Nursing Informatics Resource Toolkit built with React. This project highlights key professional organizations, policy resources, and tools relevant to informatics nurse specialists, with built-in search functionality and dark/light mode support.
 
-Features
-Search functionality
-Dark/light mode toggle
-Curated informatics resources
-Clean, professional UI
-Purpose
+---
 
-Explain:
+## Description
 
-built for MSN informatics course
-usable as real-world reference
+This toolkit was developed as part of a Master of Science in Nursing (MSN) Informatics course. It is designed to serve as both an academic reference and a practical, real-world resource hub for informatics nurses and students.
+
+---
+
+## Features
+
+- 🔍 Search functionality across organizations, tools, and relevance
+- 🌙 Dark / Light mode toggle
+- 📚 Curated nursing informatics resources
+- 🧠 Practice-focused descriptions for each organization
+- 🎯 Clean, professional, and user-friendly interface
+
+---
+
+## Purpose
+
+This project aims to:
+
+- Support learning in nursing informatics
+- Provide a centralized, easy-to-navigate resource hub
+- Bridge academic knowledge with real-world informatics practice
+- Serve as a foundation for future informatics projects and tools
+
+---
+
+## Tech Stack
+
+- React (Vite)
+- JavaScript (ES6+)
+- Inline CSS styling
+
+---
+
+## Author
+
+**Hope Nzeme A. Nkwelle, RN, BSN**
+
+---
+
+## Notes
+
+This is a living project and will continue to evolve with additional resources, features, and improvements over time.
