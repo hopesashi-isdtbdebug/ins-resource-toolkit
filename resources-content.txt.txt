@@ -1,0 +1,55 @@
+1. American Medical Informatics Association (AMIA)
+Website: https://amia.org
+Resources/Tools Found:
+Clinical informatics competencies, policy statements, AI and clinical decision support resources, AMIA Knowledge Center publications
+Relevance to Practice:
+These resources help guide the development of core informatics competencies needed for safe and effective system design. They are particularly useful for understanding how clinical decision support systems and AI tools can be implemented to improve patient outcomes while maintaining accuracy and reliability in clinical workflows.
+
+2. Health Information and Management Systems Society (HIMSS)
+Website: https://www.himss.org
+Resources/Tools Found:
+EMRAM (Electronic Medical Record Adoption Model), interoperability frameworks, digital health transformation resources, informatics certifications
+Relevance to Practice:
+HIMSS resources help evaluate and improve the maturity of electronic health record systems. These tools are directly applicable to optimizing workflows, improving interoperability, and ensuring that health systems meet current standards for safe and efficient patient care delivery.
+
+3. American Academy of Nursing (AAN)
+Website: https://aannet.org
+Resources/Tools Found:
+AI position statement (2026), health policy briefs, innovation and technology initiatives
+Relevance to Practice:
+These resources provide guidance on ethical considerations, policy development, and the integration of emerging technologies such as artificial intelligence. They support the informatics nurse in ensuring that technology implementation aligns with patient safety, equity, and evidence-based practice.
+
+4. American Nurses Association (ANA)
+Website: https://www.nursingworld.org
+Resources/Tools Found:
+Nursing Informatics: Scope and Standards of Practice, Code of Ethics, HIPAA and documentation guidelines
+Relevance to Practice:
+ANA resources define the professional standards and ethical responsibilities of informatics nurses. These tools guide proper documentation, data privacy, and the safe use of health information systems in clinical practice.
+
+5. Office of the National Coordinator for Health Information Technology (ONC) / HealthIT.gov
+Website: https://www.healthit.gov
+Resources/Tools Found:
+Health IT Playbook, interoperability standards (FHIR, HL7), Promoting Interoperability (Meaningful Use) programs
+Relevance to Practice:
+ONC resources are essential for understanding national standards for health information exchange and EHR implementation. They support the development of systems that allow seamless data sharing and improve care coordination across healthcare settings.
+
+6. National Institute of Standards and Technology (NIST)
+Website: https://www.nist.gov
+Resources/Tools Found:
+Cybersecurity Framework, risk management guidelines, health IT usability resources
+Relevance to Practice:
+These tools are critical for ensuring data security, protecting patient information, and maintaining compliance with HIPAA regulations. They also support the design of safe and user-friendly health information systems.
+
+7. Public Health Informatics Institute (PHII)
+Website: https://phii.org
+Resources/Tools Found:
+Systems development life cycle (SDLC) tools, workflow analysis resources, public health data frameworks
+Relevance to Practice:
+PHII resources support system design and workflow optimization. They are especially useful for developing and evaluating informatics solutions that improve population health and streamline clinical processes.
+
+8. Institute for Healthcare Improvement (IHI)
+Website: https://www.ihi.org
+Resources/Tools Found:
+Quality improvement tools (PDSA cycles), patient safety frameworks, Triple Aim/Quadruple Aim models
+Relevance to Practice:
+IHI resources connect informatics to quality improvement and patient outcomes. They help informatics nurses design systems that support performance improvement, patient safety, and value-based care initiatives.
